@@ -2755,14 +2755,14 @@ body {
 }
 .cid-rDMwlHjl8n {
   padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/cordillera-1400x563.jpg");
 }
 .cid-rDMwlHjl8n h3 {
   text-align: center;
 }
 .cid-rDMwlHjl8n .mbr-section-subtitle {
-  color: #767676;
+  color: #000000;
   font-weight: 300;
 }
 .cid-rDMwlHjl8n .mbr-content-text {
@@ -2784,6 +2784,59 @@ body {
 }
 .cid-rDMwlHjl8n H3 {
   color: #ffffff;
+}
+.cid-rDROofrmyk {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/slide04-1440x550.jpg");
+}
+.cid-rDROofrmyk h3 {
+  text-align: center;
+}
+.cid-rDROofrmyk .mbr-section-subtitle {
+  color: #000000;
+  font-weight: 300;
+}
+.cid-rDROofrmyk .mbr-content-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-rDROofrmyk .panel-item {
+  background: #ffffff;
+}
+.cid-rDROofrmyk .card {
+  word-wrap: break-word;
+}
+.cid-rDROofrmyk .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-rDROofrmyk H4 {
+  text-align: left;
+}
+.cid-rDROofrmyk H3 {
+  color: #ffffff;
+}
+.cid-rDRPFUMuAz {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rDRPFUMuAz P {
+  color: #767676;
+}
+.cid-rDRPa745fJ {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 45px;
+}
+.cid-rDRPa745fJ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rDRPa745fJ .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rChzDE8BcX {
   padding-top: 30px;
